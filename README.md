@@ -10,3 +10,4 @@ Radar Chart of top 100 streamed songs in Spotify for 2018 and 2019 highlighting 
 
 ## Stearming history
 Streming frequency and time.
+Lyrics wordcloud.
